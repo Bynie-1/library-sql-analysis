@@ -80,5 +80,5 @@ Total_Amount
 
 ☁︎About Me
 
-★ I am an aspiring Data Analyst, building projects to strengthen my SQL, data analysis, and problem-solving skills. Connect with me on LinkedIn
+★ I am an aspiring Data Analyst, building projects to strengthen my SQL, data analysis, and problem-solving skills. Connect with me on LinkedIn https://www.linkedin.com/in/aditya-kumar-rana-4aa06b293/
 to follow my journey!
